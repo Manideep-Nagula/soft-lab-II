@@ -2,7 +2,7 @@
 void main()
 {
 int a,b;
-a=3;
+a=7;
 b=5;
 int avg;
 avg=(a+b)/2;
