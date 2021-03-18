@@ -1,2 +1,2 @@
 # soft-lab-II
-this repoistory is basically for my sift lab II 2nd assignment.
+this repoistory is basically for my soft-lab II 2nd assignment.
